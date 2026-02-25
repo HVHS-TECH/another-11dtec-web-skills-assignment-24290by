@@ -1,7 +1,8 @@
 body {
     background-color: lightblue;
   }
-  background-color: blue;
+
+  background-color: l;
 
 ul {
   list-style-type: none;
@@ -10,3 +11,8 @@ ul {
   overflow: hidden;
   background-color: #333;
 }
+
+
+main {background-color: bisque;}
+
+head {background-color: blue;}
